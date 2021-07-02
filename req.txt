@@ -1,7 +1,7 @@
 
-Method: POST, RequestUri: 'https://86e4eec2e60bd57d33b0d2c1bff55c73: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@rmretailer.myshopify.com/admin/api/2021-07/orders.json', Version: 1.1, Content: ShopifySharp.Infrastructure.JsonContent, Headers:
+Method: POST, RequestUri: 'https://redacted@rmretailer.myshopify.com/admin/api/2021-07/orders.json', Version: 1.1, Content: ShopifySharp.Infrastructure.JsonContent, Headers:
 {
-  X-Shopify-Access-Token: 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
+  X-Shopify-Access-Token: redacted 
   Accept: application/json
   Content-Type: application/json
   Content-Length: 1141
