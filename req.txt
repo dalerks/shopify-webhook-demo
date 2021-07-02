@@ -1,0 +1,11 @@
+
+Method: POST, RequestUri: 'https://86e4eec2e60bd57d33b0d2c1bff55c73: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@rmretailer.myshopify.com/admin/api/2021-07/orders.json', Version: 1.1, Content: ShopifySharp.Infrastructure.JsonContent, Headers:
+{
+  X-Shopify-Access-Token: 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
+  Accept: application/json
+  Content-Type: application/json
+  Content-Length: 1141
+}
+
+
+{"order":{"billing_address":{"address1":"6345 West South Street","address2":"","city":"Salt Lake City","country":"United States","first_name":"Olive and ","last_name":"Cocoa","province":"UT","zip":"84104"},"created_at":"2021-06-30T21:40:55.5098725+00:00","customer":{"addresses":[{"address1":"6345 West South Street","city":"Salt Lake City","country":"United States","province":"UT","province_code":"84104"}],"first_name":"Olive and Cocoa","phone":"800-538-5404","id":5157154619571},"email":"olive&cocoa@rusticmarlin.com","financial_status":"pending","tags":"88599,BarbaraCantalupo","line_items":[{"price":37.5,"product_id":6738472370355,"quantity":1,"sku":"TRST-001-P199","title":"Your Word Established Personalized Tray","name":"Your Word Established Personalized Tray","properties":[{"name":"message","value":"Kolb;Est 1996"}],"product_exists":true}],"note":"","order_number":88599,"shipping_address":{"address1":"1800 Burning Oak Trl","address2":"","city":"Barrington","country":"United States","country_code":"US","default":true,"first_name":"Barbara","last_name":"Cantalupo","province":"IL","zip":"60010-9058"}}}
