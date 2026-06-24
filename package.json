@@ -1,0 +1,14 @@
+{
+  "name": "shopify-webhook-demo",
+  "version": "1.0.0",
+  "description": "Shopify Admin API integration — HMAC-verified webhook receiver and order creation in Node.js + TypeScript",
+  "scripts": {
+    "webhook": "ts-node src/webhook-server.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
